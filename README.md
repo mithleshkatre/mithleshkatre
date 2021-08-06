@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mithleshkatre
 - 👀 I’m interested in TinyML projects development
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently Working on TinyML Projects
 - 💞️ I’m looking to collaborate on tinyML projects
 - 📫 How to reach me by email- mithleshkatre22@gmail.com
 
