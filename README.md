@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mithleshkatre
-- 👀 I’m interested in TinyML projects development
+- 👀 I’m interested in Embedded Systems projects development
 - 🌱 I’m currently Working on TinyML Projects
-- 💞️ I’m looking to collaborate on tinyML projects
+- 💞️ I’m looking to collaborate on Embedded Systems projects
 - 📫 How to reach me by email- mithleshkatre22@gmail.com
 
 <!---
